@@ -1,0 +1,1145 @@
+region,date,variable,value
+Viken,2020-01-01,rentedrooms,221549
+Viken,2020-01-01,roomprice,996
+Viken,2020-01-01,roomcap,52
+Viken,2020-01-01,bedcap,32
+Viken,2020-01-01,revenue,220663
+Viken,2020-01-01,revperroom,522
+Viken,2020-01-01,revsofar,220663
+Viken,2020-01-01,revroomsofar,522
+Viken,2020-01-01,roompricesofar,996
+Viken,2020-01-01,roomcapsofar,52
+Viken,2020-01-01,bedcapsofar,32
+Viken,2020-02-01,rentedrooms,207851
+Viken,2020-02-01,roomprice,1005
+Viken,2020-02-01,roomcap,53
+Viken,2020-02-01,bedcap,37
+Viken,2020-02-01,revenue,208970
+Viken,2020-02-01,revperroom,529
+Viken,2020-02-01,revsofar,429633
+Viken,2020-02-01,revroomsofar,525
+Viken,2020-02-01,roompricesofar,1001
+Viken,2020-02-01,roomcapsofar,52
+Viken,2020-02-01,bedcapsofar,35
+Viken,2020-03-01,rentedrooms,104271
+Viken,2020-03-01,roomprice,1026
+Viken,2020-03-01,roomcap,30
+Viken,2020-03-01,bedcap,20
+Viken,2020-03-01,revenue,106935
+Viken,2020-03-01,revperroom,310
+Viken,2020-03-01,revsofar,536568
+Viken,2020-03-01,revroomsofar,462
+Viken,2020-03-01,roompricesofar,1005
+Viken,2020-03-01,roomcapsofar,46
+Viken,2020-03-01,bedcapsofar,30
+Viken,2020-04-01,rentedrooms,26515
+Viken,2020-04-01,roomprice,860
+Viken,2020-04-01,roomcap,13
+Viken,2020-04-01,bedcap,7
+Viken,2020-04-01,revenue,22804
+Viken,2020-04-01,revperroom,115
+Viken,2020-04-01,revsofar,559372
+Viken,2020-04-01,revroomsofar,411
+Viken,2020-04-01,roompricesofar,999
+Viken,2020-04-01,roomcapsofar,41
+Viken,2020-04-01,bedcapsofar,27
+Viken,2020-05-01,rentedrooms,45285
+Viken,2020-05-01,roomprice,904
+Viken,2020-05-01,roomcap,19
+Viken,2020-05-01,bedcap,11
+Viken,2020-05-01,revenue,40958
+Viken,2020-05-01,revperroom,174
+Viken,2020-05-01,revsofar,600331
+Viken,2020-05-01,revroomsofar,376
+Viken,2020-05-01,roompricesofar,992
+Viken,2020-05-01,roomcapsofar,38
+Viken,2020-05-01,bedcapsofar,25
+Viken,2020-06-01,rentedrooms,97251
+Viken,2020-06-01,roomprice,931
+Viken,2020-06-01,roomcap,30
+Viken,2020-06-01,bedcap,20
+Viken,2020-06-01,revenue,90587
+Viken,2020-06-01,revperroom,281
+Viken,2020-06-01,revsofar,690917
+Viken,2020-06-01,revroomsofar,360
+Viken,2020-06-01,roompricesofar,983
+Viken,2020-06-01,roomcapsofar,37
+Viken,2020-06-01,bedcapsofar,24
+Viken,2020-07-01,rentedrooms,160918
+Viken,2020-07-01,roomprice,982
+Viken,2020-07-01,roomcap,47
+Viken,2020-07-01,bedcap,43
+Viken,2020-07-01,revenue,158037
+Viken,2020-07-01,revperroom,460
+Viken,2020-07-01,revsofar,848954
+Viken,2020-07-01,revroomsofar,375
+Viken,2020-07-01,roompricesofar,983
+Viken,2020-07-01,roomcapsofar,38
+Viken,2020-07-01,bedcapsofar,27
+Viken,2020-08-01,rentedrooms,135740
+Viken,2020-08-01,roomprice,923
+Viken,2020-08-01,roomcap,37
+Viken,2020-08-01,bedcap,24
+Viken,2020-08-01,revenue,125277
+Viken,2020-08-01,revperroom,337
+Viken,2020-08-01,revsofar,974231
+Viken,2020-08-01,revroomsofar,370
+Viken,2020-08-01,roompricesofar,975
+Viken,2020-08-01,roomcapsofar,38
+Viken,2020-08-01,bedcapsofar,26
+Oslo,2020-01-01,rentedrooms,254858
+Oslo,2020-01-01,roomprice,928
+Oslo,2020-01-01,roomcap,57
+Oslo,2020-01-01,bedcap,40
+Oslo,2020-01-01,revenue,236627
+Oslo,2020-01-01,revperroom,529
+Oslo,2020-01-01,revsofar,236627
+Oslo,2020-01-01,revroomsofar,529
+Oslo,2020-01-01,roompricesofar,928
+Oslo,2020-01-01,roomcapsofar,57
+Oslo,2020-01-01,bedcapsofar,40
+Oslo,2020-02-01,rentedrooms,256189
+Oslo,2020-02-01,roomprice,931
+Oslo,2020-02-01,roomcap,63
+Oslo,2020-02-01,bedcap,46
+Oslo,2020-02-01,revenue,238402
+Oslo,2020-02-01,revperroom,582
+Oslo,2020-02-01,revsofar,475030
+Oslo,2020-02-01,revroomsofar,555
+Oslo,2020-02-01,roompricesofar,930
+Oslo,2020-02-01,roomcapsofar,60
+Oslo,2020-02-01,bedcapsofar,43
+Oslo,2020-03-01,rentedrooms,112016
+Oslo,2020-03-01,roomprice,1035
+Oslo,2020-03-01,roomcap,29
+Oslo,2020-03-01,bedcap,19
+Oslo,2020-03-01,revenue,115904
+Oslo,2020-03-01,revperroom,302
+Oslo,2020-03-01,revsofar,590934
+Oslo,2020-03-01,revroomsofar,476
+Oslo,2020-03-01,roompricesofar,948
+Oslo,2020-03-01,roomcapsofar,50
+Oslo,2020-03-01,bedcapsofar,36
+Oslo,2020-04-01,rentedrooms,28609
+Oslo,2020-04-01,roomprice,855
+Oslo,2020-04-01,roomcap,20
+Oslo,2020-04-01,bedcap,12
+Oslo,2020-04-01,revenue,24472
+Oslo,2020-04-01,revperroom,168
+Oslo,2020-04-01,revsofar,615406
+Oslo,2020-04-01,revroomsofar,444
+Oslo,2020-04-01,roompricesofar,944
+Oslo,2020-04-01,roomcapsofar,47
+Oslo,2020-04-01,bedcapsofar,33
+Oslo,2020-05-01,rentedrooms,42101
+Oslo,2020-05-01,roomprice,870
+Oslo,2020-05-01,roomcap,23
+Oslo,2020-05-01,bedcap,16
+Oslo,2020-05-01,revenue,36641
+Oslo,2020-05-01,revperroom,200
+Oslo,2020-05-01,revsofar,652047
+Oslo,2020-05-01,revroomsofar,416
+Oslo,2020-05-01,roompricesofar,940
+Oslo,2020-05-01,roomcapsofar,44
+Oslo,2020-05-01,bedcapsofar,31
+Oslo,2020-06-01,rentedrooms,94794
+Oslo,2020-06-01,roomprice,889
+Oslo,2020-06-01,roomcap,32
+Oslo,2020-06-01,bedcap,24
+Oslo,2020-06-01,revenue,84311
+Oslo,2020-06-01,revperroom,283
+Oslo,2020-06-01,revsofar,736358
+Oslo,2020-06-01,revroomsofar,394
+Oslo,2020-06-01,roompricesofar,934
+Oslo,2020-06-01,roomcapsofar,42
+Oslo,2020-06-01,bedcapsofar,30
+Oslo,2020-07-01,rentedrooms,158146
+Oslo,2020-07-01,roomprice,877
+Oslo,2020-07-01,roomcap,48
+Oslo,2020-07-01,bedcap,48
+Oslo,2020-07-01,revenue,138688
+Oslo,2020-07-01,revperroom,421
+Oslo,2020-07-01,revsofar,875046
+Oslo,2020-07-01,revroomsofar,398
+Oslo,2020-07-01,roompricesofar,924
+Oslo,2020-07-01,roomcapsofar,43
+Oslo,2020-07-01,bedcapsofar,33
+Oslo,2020-08-01,rentedrooms,140651
+Oslo,2020-08-01,roomprice,859
+Oslo,2020-08-01,roomcap,35
+Oslo,2020-08-01,bedcap,27
+Oslo,2020-08-01,revenue,120813
+Oslo,2020-08-01,revperroom,298
+Oslo,2020-08-01,revsofar,995859
+Oslo,2020-08-01,revroomsofar,383
+Oslo,2020-08-01,roompricesofar,916
+Oslo,2020-08-01,roomcapsofar,42
+Oslo,2020-08-01,bedcapsofar,32
+Innlandet,2020-01-01,rentedrooms,81685
+Innlandet,2020-01-01,roomprice,927
+Innlandet,2020-01-01,roomcap,43
+Innlandet,2020-01-01,bedcap,31
+Innlandet,2020-01-01,revenue,75748
+Innlandet,2020-01-01,revperroom,403
+Innlandet,2020-01-01,revsofar,75748
+Innlandet,2020-01-01,revroomsofar,403
+Innlandet,2020-01-01,roompricesofar,927
+Innlandet,2020-01-01,roomcapsofar,43
+Innlandet,2020-01-01,bedcapsofar,31
+Innlandet,2020-02-01,rentedrooms,107568
+Innlandet,2020-02-01,roomprice,1141
+Innlandet,2020-02-01,roomcap,55
+Innlandet,2020-02-01,bedcap,47
+Innlandet,2020-02-01,revenue,122694
+Innlandet,2020-02-01,revperroom,632
+Innlandet,2020-02-01,revsofar,198442
+Innlandet,2020-02-01,revroomsofar,519
+Innlandet,2020-02-01,roompricesofar,1049
+Innlandet,2020-02-01,roomcapsofar,50
+Innlandet,2020-02-01,bedcapsofar,39
+Innlandet,2020-03-01,rentedrooms,48052
+Innlandet,2020-03-01,roomprice,974
+Innlandet,2020-03-01,roomcap,28
+Innlandet,2020-03-01,bedcap,20
+Innlandet,2020-03-01,revenue,46789
+Innlandet,2020-03-01,revperroom,269
+Innlandet,2020-03-01,revsofar,245231
+Innlandet,2020-03-01,revroomsofar,441
+Innlandet,2020-03-01,roompricesofar,1033
+Innlandet,2020-03-01,roomcapsofar,43
+Innlandet,2020-03-01,bedcapsofar,33
+Innlandet,2020-04-01,rentedrooms,8892
+Innlandet,2020-04-01,roomprice,773
+Innlandet,2020-04-01,roomcap,13
+Innlandet,2020-04-01,bedcap,7
+Innlandet,2020-04-01,revenue,6869
+Innlandet,2020-04-01,revperroom,100
+Innlandet,2020-04-01,revsofar,252101
+Innlandet,2020-04-01,revroomsofar,403
+Innlandet,2020-04-01,roompricesofar,1024
+Innlandet,2020-04-01,roomcapsofar,39
+Innlandet,2020-04-01,bedcapsofar,30
+Innlandet,2020-05-01,rentedrooms,18617
+Innlandet,2020-05-01,roomprice,835
+Innlandet,2020-05-01,roomcap,21
+Innlandet,2020-05-01,bedcap,12
+Innlandet,2020-05-01,revenue,15537
+Innlandet,2020-05-01,revperroom,176
+Innlandet,2020-05-01,revsofar,267638
+Innlandet,2020-05-01,revroomsofar,375
+Innlandet,2020-05-01,roompricesofar,1011
+Innlandet,2020-05-01,roomcapsofar,37
+Innlandet,2020-05-01,bedcapsofar,28
+Innlandet,2020-06-01,rentedrooms,54379
+Innlandet,2020-06-01,roomprice,909
+Innlandet,2020-06-01,roomcap,31
+Innlandet,2020-06-01,bedcap,21
+Innlandet,2020-06-01,revenue,49449
+Innlandet,2020-06-01,revperroom,279
+Innlandet,2020-06-01,revsofar,317087
+Innlandet,2020-06-01,revroomsofar,356
+Innlandet,2020-06-01,roompricesofar,993
+Innlandet,2020-06-01,roomcapsofar,36
+Innlandet,2020-06-01,bedcapsofar,27
+Innlandet,2020-07-01,rentedrooms,141269
+Innlandet,2020-07-01,roomprice,1036
+Innlandet,2020-07-01,roomcap,68
+Innlandet,2020-07-01,bedcap,61
+Innlandet,2020-07-01,revenue,146384
+Innlandet,2020-07-01,revperroom,703
+Innlandet,2020-07-01,revsofar,463471
+Innlandet,2020-07-01,revroomsofar,422
+Innlandet,2020-07-01,roompricesofar,1007
+Innlandet,2020-07-01,roomcapsofar,42
+Innlandet,2020-07-01,bedcapsofar,33
+Innlandet,2020-08-01,rentedrooms,95402
+Innlandet,2020-08-01,roomprice,942
+Innlandet,2020-08-01,roomcap,47
+Innlandet,2020-08-01,bedcap,33
+Innlandet,2020-08-01,revenue,89866
+Innlandet,2020-08-01,revperroom,441
+Innlandet,2020-08-01,revsofar,553337
+Innlandet,2020-08-01,revroomsofar,425
+Innlandet,2020-08-01,roompricesofar,995
+Innlandet,2020-08-01,roomcapsofar,43
+Innlandet,2020-08-01,bedcapsofar,33
+Vestfold og Telemark,2020-01-01,rentedrooms,45109
+Vestfold og Telemark,2020-01-01,roomprice,870
+Vestfold og Telemark,2020-01-01,roomcap,27
+Vestfold og Telemark,2020-01-01,bedcap,16
+Vestfold og Telemark,2020-01-01,revenue,39259
+Vestfold og Telemark,2020-01-01,revperroom,236
+Vestfold og Telemark,2020-01-01,revsofar,39259
+Vestfold og Telemark,2020-01-01,revroomsofar,236
+Vestfold og Telemark,2020-01-01,roompricesofar,870
+Vestfold og Telemark,2020-01-01,roomcapsofar,27
+Vestfold og Telemark,2020-01-01,bedcapsofar,16
+Vestfold og Telemark,2020-02-01,rentedrooms,48115
+Vestfold og Telemark,2020-02-01,roomprice,911
+Vestfold og Telemark,2020-02-01,roomcap,30
+Vestfold og Telemark,2020-02-01,bedcap,18
+Vestfold og Telemark,2020-02-01,revenue,43836
+Vestfold og Telemark,2020-02-01,revperroom,270
+Vestfold og Telemark,2020-02-01,revsofar,83095
+Vestfold og Telemark,2020-02-01,revroomsofar,253
+Vestfold og Telemark,2020-02-01,roompricesofar,891
+Vestfold og Telemark,2020-02-01,roomcapsofar,28
+Vestfold og Telemark,2020-02-01,bedcapsofar,17
+Vestfold og Telemark,2020-03-01,rentedrooms,26334
+Vestfold og Telemark,2020-03-01,roomprice,832
+Vestfold og Telemark,2020-03-01,roomcap,18
+Vestfold og Telemark,2020-03-01,bedcap,11
+Vestfold og Telemark,2020-03-01,revenue,21906
+Vestfold og Telemark,2020-03-01,revperroom,149
+Vestfold og Telemark,2020-03-01,revsofar,105001
+Vestfold og Telemark,2020-03-01,revroomsofar,221
+Vestfold og Telemark,2020-03-01,roompricesofar,878
+Vestfold og Telemark,2020-03-01,roomcapsofar,25
+Vestfold og Telemark,2020-03-01,bedcapsofar,15
+Vestfold og Telemark,2020-04-01,rentedrooms,9126
+Vestfold og Telemark,2020-04-01,roomprice,632
+Vestfold og Telemark,2020-04-01,roomcap,8
+Vestfold og Telemark,2020-04-01,bedcap,3
+Vestfold og Telemark,2020-04-01,revenue,5770
+Vestfold og Telemark,2020-04-01,revperroom,53
+Vestfold og Telemark,2020-04-01,revsofar,110771
+Vestfold og Telemark,2020-04-01,revroomsofar,189
+Vestfold og Telemark,2020-04-01,roompricesofar,861
+Vestfold og Telemark,2020-04-01,roomcapsofar,22
+Vestfold og Telemark,2020-04-01,bedcapsofar,13
+Vestfold og Telemark,2020-05-01,rentedrooms,18407
+Vestfold og Telemark,2020-05-01,roomprice,855
+Vestfold og Telemark,2020-05-01,roomcap,15
+Vestfold og Telemark,2020-05-01,bedcap,9
+Vestfold og Telemark,2020-05-01,revenue,15736
+Vestfold og Telemark,2020-05-01,revperroom,126
+Vestfold og Telemark,2020-05-01,revsofar,126507
+Vestfold og Telemark,2020-05-01,revroomsofar,178
+Vestfold og Telemark,2020-05-01,roompricesofar,860
+Vestfold og Telemark,2020-05-01,roomcapsofar,21
+Vestfold og Telemark,2020-05-01,bedcapsofar,12
+Vestfold og Telemark,2020-06-01,rentedrooms,48962
+Vestfold og Telemark,2020-06-01,roomprice,1017
+Vestfold og Telemark,2020-06-01,roomcap,30
+Vestfold og Telemark,2020-06-01,bedcap,20
+Vestfold og Telemark,2020-06-01,revenue,49813
+Vestfold og Telemark,2020-06-01,revperroom,306
+Vestfold og Telemark,2020-06-01,revsofar,176320
+Vestfold og Telemark,2020-06-01,revroomsofar,202
+Vestfold og Telemark,2020-06-01,roompricesofar,899
+Vestfold og Telemark,2020-06-01,roomcapsofar,22
+Vestfold og Telemark,2020-06-01,bedcapsofar,14
+Vestfold og Telemark,2020-07-01,rentedrooms,112465
+Vestfold og Telemark,2020-07-01,roomprice,1113
+Vestfold og Telemark,2020-07-01,roomcap,62
+Vestfold og Telemark,2020-07-01,bedcap,52
+Vestfold og Telemark,2020-07-01,revenue,125160
+Vestfold og Telemark,2020-07-01,revperroom,692
+Vestfold og Telemark,2020-07-01,revsofar,301480
+Vestfold og Telemark,2020-07-01,revroomsofar,286
+Vestfold og Telemark,2020-07-01,roompricesofar,977
+Vestfold og Telemark,2020-07-01,roomcapsofar,29
+Vestfold og Telemark,2020-07-01,bedcapsofar,20
+Vestfold og Telemark,2020-08-01,rentedrooms,68799
+Vestfold og Telemark,2020-08-01,roomprice,1059
+Vestfold og Telemark,2020-08-01,roomcap,38
+Vestfold og Telemark,2020-08-01,bedcap,26
+Vestfold og Telemark,2020-08-01,revenue,72876
+Vestfold og Telemark,2020-08-01,revperroom,402
+Vestfold og Telemark,2020-08-01,revsofar,374356
+Vestfold og Telemark,2020-08-01,revroomsofar,303
+Vestfold og Telemark,2020-08-01,roompricesofar,992
+Vestfold og Telemark,2020-08-01,roomcapsofar,31
+Vestfold og Telemark,2020-08-01,bedcapsofar,21
+Agder,2020-01-01,rentedrooms,30630
+Agder,2020-01-01,roomprice,829
+Agder,2020-01-01,roomcap,33
+Agder,2020-01-01,bedcap,16
+Agder,2020-01-01,revenue,25407
+Agder,2020-01-01,revperroom,271
+Agder,2020-01-01,revsofar,25407
+Agder,2020-01-01,revroomsofar,271
+Agder,2020-01-01,roompricesofar,829
+Agder,2020-01-01,roomcapsofar,33
+Agder,2020-01-01,bedcapsofar,16
+Agder,2020-02-01,rentedrooms,33645
+Agder,2020-02-01,roomprice,854
+Agder,2020-02-01,roomcap,40
+Agder,2020-02-01,bedcap,24
+Agder,2020-02-01,revenue,28737
+Agder,2020-02-01,revperroom,339
+Agder,2020-02-01,revsofar,54145
+Agder,2020-02-01,revroomsofar,303
+Agder,2020-02-01,roompricesofar,842
+Agder,2020-02-01,roomcapsofar,36
+Agder,2020-02-01,bedcapsofar,20
+Agder,2020-03-01,rentedrooms,18165
+Agder,2020-03-01,roomprice,867
+Agder,2020-03-01,roomcap,23
+Agder,2020-03-01,bedcap,13
+Agder,2020-03-01,revenue,15747
+Agder,2020-03-01,revperroom,200
+Agder,2020-03-01,revsofar,69891
+Agder,2020-03-01,revroomsofar,272
+Agder,2020-03-01,roompricesofar,848
+Agder,2020-03-01,roomcapsofar,32
+Agder,2020-03-01,bedcapsofar,18
+Agder,2020-04-01,rentedrooms,6050
+Agder,2020-04-01,roomprice,860
+Agder,2020-04-01,roomcap,13
+Agder,2020-04-01,bedcap,6
+Agder,2020-04-01,revenue,5206
+Agder,2020-04-01,revperroom,111
+Agder,2020-04-01,revsofar,75097
+Agder,2020-04-01,revroomsofar,247
+Agder,2020-04-01,roompricesofar,849
+Agder,2020-04-01,roomcapsofar,29
+Agder,2020-04-01,bedcapsofar,16
+Agder,2020-05-01,rentedrooms,18378
+Agder,2020-05-01,roomprice,1007
+Agder,2020-05-01,roomcap,29
+Agder,2020-05-01,bedcap,20
+Agder,2020-05-01,revenue,18514
+Agder,2020-05-01,revperroom,294
+Agder,2020-05-01,revsofar,93611
+Agder,2020-05-01,revroomsofar,255
+Agder,2020-05-01,roompricesofar,876
+Agder,2020-05-01,roomcapsofar,29
+Agder,2020-05-01,bedcapsofar,17
+Agder,2020-06-01,rentedrooms,48398
+Agder,2020-06-01,roomprice,1208
+Agder,2020-06-01,roomcap,49
+Agder,2020-06-01,bedcap,38
+Agder,2020-06-01,revenue,58459
+Agder,2020-06-01,revperroom,593
+Agder,2020-06-01,revsofar,152070
+Agder,2020-06-01,revroomsofar,326
+Agder,2020-06-01,roompricesofar,979
+Agder,2020-06-01,roomcapsofar,33
+Agder,2020-06-01,bedcapsofar,22
+Agder,2020-07-01,rentedrooms,99146
+Agder,2020-07-01,roomprice,1638
+Agder,2020-07-01,roomcap,87
+Agder,2020-07-01,bedcap,90
+Agder,2020-07-01,revenue,162383
+Agder,2020-07-01,revperroom,1431
+Agder,2020-07-01,revsofar,314453
+Agder,2020-07-01,revroomsofar,543
+Agder,2020-07-01,roompricesofar,1236
+Agder,2020-07-01,roomcapsofar,44
+Agder,2020-07-01,bedcapsofar,35
+Agder,2020-08-01,rentedrooms,62575
+Agder,2020-08-01,roomprice,1179
+Agder,2020-08-01,roomcap,59
+Agder,2020-08-01,bedcap,49
+Agder,2020-08-01,revenue,73752
+Agder,2020-08-01,revperroom,691
+Agder,2020-08-01,revsofar,388205
+Agder,2020-08-01,revroomsofar,566
+Agder,2020-08-01,roompricesofar,1225
+Agder,2020-08-01,roomcapsofar,46
+Agder,2020-08-01,bedcapsofar,37
+Rogaland,2020-01-01,rentedrooms,101818
+Rogaland,2020-01-01,roomprice,896
+Rogaland,2020-01-01,roomcap,49
+Rogaland,2020-01-01,bedcap,31
+Rogaland,2020-01-01,revenue,91223
+Rogaland,2020-01-01,revperroom,439
+Rogaland,2020-01-01,revsofar,91223
+Rogaland,2020-01-01,revroomsofar,439
+Rogaland,2020-01-01,roompricesofar,896
+Rogaland,2020-01-01,roomcapsofar,49
+Rogaland,2020-01-01,bedcapsofar,31
+Rogaland,2020-02-01,rentedrooms,95177
+Rogaland,2020-02-01,roomprice,885
+Rogaland,2020-02-01,roomcap,49
+Rogaland,2020-02-01,bedcap,32
+Rogaland,2020-02-01,revenue,84227
+Rogaland,2020-02-01,revperroom,437
+Rogaland,2020-02-01,revsofar,175450
+Rogaland,2020-02-01,revroomsofar,438
+Rogaland,2020-02-01,roompricesofar,891
+Rogaland,2020-02-01,roomcapsofar,49
+Rogaland,2020-02-01,bedcapsofar,31
+Rogaland,2020-03-01,rentedrooms,52652
+Rogaland,2020-03-01,roomprice,930
+Rogaland,2020-03-01,roomcap,28
+Rogaland,2020-03-01,bedcap,16
+Rogaland,2020-03-01,revenue,48969
+Rogaland,2020-03-01,revperroom,256
+Rogaland,2020-03-01,revsofar,224419
+Rogaland,2020-03-01,revroomsofar,379
+Rogaland,2020-03-01,roompricesofar,899
+Rogaland,2020-03-01,roomcapsofar,42
+Rogaland,2020-03-01,bedcapsofar,26
+Rogaland,2020-04-01,rentedrooms,29533
+Rogaland,2020-04-01,roomprice,838
+Rogaland,2020-04-01,roomcap,23
+Rogaland,2020-04-01,bedcap,13
+Rogaland,2020-04-01,revenue,24740
+Rogaland,2020-04-01,revperroom,190
+Rogaland,2020-04-01,revsofar,249159
+Rogaland,2020-04-01,revroomsofar,345
+Rogaland,2020-04-01,roompricesofar,892
+Rogaland,2020-04-01,roomcapsofar,39
+Rogaland,2020-04-01,bedcapsofar,24
+Rogaland,2020-05-01,rentedrooms,43763
+Rogaland,2020-05-01,roomprice,862
+Rogaland,2020-05-01,roomcap,33
+Rogaland,2020-05-01,bedcap,20
+Rogaland,2020-05-01,revenue,37711
+Rogaland,2020-05-01,revperroom,282
+Rogaland,2020-05-01,revsofar,286869
+Rogaland,2020-05-01,revroomsofar,335
+Rogaland,2020-05-01,roompricesofar,888
+Rogaland,2020-05-01,roomcapsofar,38
+Rogaland,2020-05-01,bedcapsofar,23
+Rogaland,2020-06-01,rentedrooms,77658
+Rogaland,2020-06-01,roomprice,919
+Rogaland,2020-06-01,roomcap,43
+Rogaland,2020-06-01,bedcap,31
+Rogaland,2020-06-01,revenue,71350
+Rogaland,2020-06-01,revperroom,395
+Rogaland,2020-06-01,revsofar,358220
+Rogaland,2020-06-01,revroomsofar,346
+Rogaland,2020-06-01,roompricesofar,894
+Rogaland,2020-06-01,roomcapsofar,39
+Rogaland,2020-06-01,bedcapsofar,25
+Rogaland,2020-07-01,rentedrooms,124951
+Rogaland,2020-07-01,roomprice,931
+Rogaland,2020-07-01,roomcap,69
+Rogaland,2020-07-01,bedcap,67
+Rogaland,2020-07-01,revenue,116306
+Rogaland,2020-07-01,revperroom,642
+Rogaland,2020-07-01,revsofar,474526
+Rogaland,2020-07-01,revroomsofar,390
+Rogaland,2020-07-01,roompricesofar,903
+Rogaland,2020-07-01,roomcapsofar,43
+Rogaland,2020-07-01,bedcapsofar,31
+Rogaland,2020-08-01,rentedrooms,94103
+Rogaland,2020-08-01,roomprice,856
+Rogaland,2020-08-01,roomcap,47
+Rogaland,2020-08-01,bedcap,35
+Rogaland,2020-08-01,revenue,80569
+Rogaland,2020-08-01,revperroom,404
+Rogaland,2020-08-01,revsofar,555095
+Rogaland,2020-08-01,revroomsofar,392
+Rogaland,2020-08-01,roompricesofar,896
+Rogaland,2020-08-01,roomcapsofar,44
+Rogaland,2020-08-01,bedcapsofar,32
+Vestland,2020-01-01,rentedrooms,129027
+Vestland,2020-01-01,roomprice,924
+Vestland,2020-01-01,roomcap,38
+Vestland,2020-01-01,bedcap,24
+Vestland,2020-01-01,revenue,119209
+Vestland,2020-01-01,revperroom,350
+Vestland,2020-01-01,revsofar,119209
+Vestland,2020-01-01,revroomsofar,350
+Vestland,2020-01-01,roompricesofar,924
+Vestland,2020-01-01,roomcapsofar,38
+Vestland,2020-01-01,bedcapsofar,24
+Vestland,2020-02-01,rentedrooms,139836
+Vestland,2020-02-01,roomprice,949
+Vestland,2020-02-01,roomcap,44
+Vestland,2020-02-01,bedcap,30
+Vestland,2020-02-01,revenue,132720
+Vestland,2020-02-01,revperroom,413
+Vestland,2020-02-01,revsofar,251929
+Vestland,2020-02-01,revroomsofar,380
+Vestland,2020-02-01,roompricesofar,937
+Vestland,2020-02-01,roomcapsofar,41
+Vestland,2020-02-01,bedcapsofar,27
+Vestland,2020-03-01,rentedrooms,77596
+Vestland,2020-03-01,roomprice,987
+Vestland,2020-03-01,roomcap,25
+Vestland,2020-03-01,bedcap,14
+Vestland,2020-03-01,revenue,76624
+Vestland,2020-03-01,revperroom,246
+Vestland,2020-03-01,revsofar,328553
+Vestland,2020-03-01,revroomsofar,337
+Vestland,2020-03-01,roompricesofar,948
+Vestland,2020-03-01,roomcapsofar,36
+Vestland,2020-03-01,bedcapsofar,23
+Vestland,2020-04-01,rentedrooms,32741
+Vestland,2020-04-01,roomprice,931
+Vestland,2020-04-01,roomcap,21
+Vestland,2020-04-01,bedcap,11
+Vestland,2020-04-01,revenue,30475
+Vestland,2020-04-01,revperroom,195
+Vestland,2020-04-01,revsofar,359028
+Vestland,2020-04-01,revroomsofar,318
+Vestland,2020-04-01,roompricesofar,947
+Vestland,2020-04-01,roomcapsofar,34
+Vestland,2020-04-01,bedcapsofar,21
+Vestland,2020-05-01,rentedrooms,57438
+Vestland,2020-05-01,roomprice,1014
+Vestland,2020-05-01,roomcap,28
+Vestland,2020-05-01,bedcap,17
+Vestland,2020-05-01,revenue,58223
+Vestland,2020-05-01,revperroom,289
+Vestland,2020-05-01,revsofar,417251
+Vestland,2020-05-01,revroomsofar,313
+Vestland,2020-05-01,roompricesofar,956
+Vestland,2020-05-01,roomcapsofar,33
+Vestland,2020-05-01,bedcapsofar,20
+Vestland,2020-06-01,rentedrooms,117120
+Vestland,2020-06-01,roomprice,1135
+Vestland,2020-06-01,roomcap,37
+Vestland,2020-06-01,bedcap,27
+Vestland,2020-06-01,revenue,132948
+Vestland,2020-06-01,revperroom,422
+Vestland,2020-06-01,revsofar,550199
+Vestland,2020-06-01,revroomsofar,334
+Vestland,2020-06-01,roompricesofar,994
+Vestland,2020-06-01,roomcapsofar,34
+Vestland,2020-06-01,bedcapsofar,22
+Vestland,2020-07-01,rentedrooms,246177
+Vestland,2020-07-01,roomprice,1241
+Vestland,2020-07-01,roomcap,65
+Vestland,2020-07-01,bedcap,64
+Vestland,2020-07-01,revenue,305555
+Vestland,2020-07-01,revperroom,802
+Vestland,2020-07-01,revsofar,855755
+Vestland,2020-07-01,revroomsofar,422
+Vestland,2020-07-01,roompricesofar,1070
+Vestland,2020-07-01,roomcapsofar,40
+Vestland,2020-07-01,bedcapsofar,30
+Vestland,2020-08-01,rentedrooms,176553
+Vestland,2020-08-01,roomprice,1166
+Vestland,2020-08-01,roomcap,44
+Vestland,2020-08-01,bedcap,35
+Vestland,2020-08-01,revenue,205913
+Vestland,2020-08-01,revperroom,516
+Vestland,2020-08-01,revsofar,1061667
+Vestland,2020-08-01,revroomsofar,437
+Vestland,2020-08-01,roompricesofar,1087
+Vestland,2020-08-01,roomcapsofar,40
+Vestland,2020-08-01,bedcapsofar,30
+Møre og Romsdal,2020-01-01,rentedrooms,40941
+Møre og Romsdal,2020-01-01,roomprice,814
+Møre og Romsdal,2020-01-01,roomcap,37
+Møre og Romsdal,2020-01-01,bedcap,22
+Møre og Romsdal,2020-01-01,revenue,33337
+Møre og Romsdal,2020-01-01,revperroom,299
+Møre og Romsdal,2020-01-01,revsofar,33337
+Møre og Romsdal,2020-01-01,revroomsofar,299
+Møre og Romsdal,2020-01-01,roompricesofar,814
+Møre og Romsdal,2020-01-01,roomcapsofar,37
+Møre og Romsdal,2020-01-01,bedcapsofar,22
+Møre og Romsdal,2020-02-01,rentedrooms,44597
+Møre og Romsdal,2020-02-01,roomprice,827
+Møre og Romsdal,2020-02-01,roomcap,41
+Møre og Romsdal,2020-02-01,bedcap,26
+Møre og Romsdal,2020-02-01,revenue,36895
+Møre og Romsdal,2020-02-01,revperroom,336
+Møre og Romsdal,2020-02-01,revsofar,70231
+Møre og Romsdal,2020-02-01,revroomsofar,318
+Møre og Romsdal,2020-02-01,roompricesofar,821
+Møre og Romsdal,2020-02-01,roomcapsofar,39
+Møre og Romsdal,2020-02-01,bedcapsofar,24
+Møre og Romsdal,2020-03-01,rentedrooms,26397
+Møre og Romsdal,2020-03-01,roomprice,876
+Møre og Romsdal,2020-03-01,roomcap,24
+Møre og Romsdal,2020-03-01,bedcap,14
+Møre og Romsdal,2020-03-01,revenue,23126
+Møre og Romsdal,2020-03-01,revperroom,215
+Møre og Romsdal,2020-03-01,revsofar,93358
+Møre og Romsdal,2020-03-01,revroomsofar,284
+Møre og Romsdal,2020-03-01,roompricesofar,834
+Møre og Romsdal,2020-03-01,roomcapsofar,34
+Møre og Romsdal,2020-03-01,bedcapsofar,20
+Møre og Romsdal,2020-04-01,rentedrooms,13773
+Møre og Romsdal,2020-04-01,roomprice,818
+Møre og Romsdal,2020-04-01,roomcap,24
+Møre og Romsdal,2020-04-01,bedcap,14
+Møre og Romsdal,2020-04-01,revenue,11264
+Møre og Romsdal,2020-04-01,revperroom,194
+Møre og Romsdal,2020-04-01,revsofar,104622
+Møre og Romsdal,2020-04-01,revroomsofar,271
+Møre og Romsdal,2020-04-01,roompricesofar,832
+Møre og Romsdal,2020-04-01,roomcapsofar,32
+Møre og Romsdal,2020-04-01,bedcapsofar,19
+Møre og Romsdal,2020-05-01,rentedrooms,24544
+Møre og Romsdal,2020-05-01,roomprice,893
+Møre og Romsdal,2020-05-01,roomcap,32
+Møre og Romsdal,2020-05-01,bedcap,19
+Møre og Romsdal,2020-05-01,revenue,21906
+Møre og Romsdal,2020-05-01,revperroom,285
+Møre og Romsdal,2020-05-01,revsofar,126528
+Møre og Romsdal,2020-05-01,revroomsofar,273
+Møre og Romsdal,2020-05-01,roompricesofar,842
+Møre og Romsdal,2020-05-01,roomcapsofar,32
+Møre og Romsdal,2020-05-01,bedcapsofar,19
+Møre og Romsdal,2020-06-01,rentedrooms,47813
+Møre og Romsdal,2020-06-01,roomprice,1056
+Møre og Romsdal,2020-06-01,roomcap,42
+Møre og Romsdal,2020-06-01,bedcap,32
+Møre og Romsdal,2020-06-01,revenue,50487
+Møre og Romsdal,2020-06-01,revperroom,443
+Møre og Romsdal,2020-06-01,revsofar,177016
+Møre og Romsdal,2020-06-01,revroomsofar,306
+Møre og Romsdal,2020-06-01,roompricesofar,894
+Møre og Romsdal,2020-06-01,roomcapsofar,34
+Møre og Romsdal,2020-06-01,bedcapsofar,22
+Møre og Romsdal,2020-07-01,rentedrooms,100202
+Møre og Romsdal,2020-07-01,roomprice,1285
+Møre og Romsdal,2020-07-01,roomcap,75
+Møre og Romsdal,2020-07-01,bedcap,75
+Møre og Romsdal,2020-07-01,revenue,128714
+Møre og Romsdal,2020-07-01,revperroom,967
+Møre og Romsdal,2020-07-01,revsofar,305730
+Møre og Romsdal,2020-07-01,revroomsofar,430
+Møre og Romsdal,2020-07-01,roompricesofar,1025
+Møre og Romsdal,2020-07-01,roomcapsofar,42
+Møre og Romsdal,2020-07-01,bedcapsofar,32
+Møre og Romsdal,2020-08-01,rentedrooms,67798
+Møre og Romsdal,2020-08-01,roomprice,1119
+Møre og Romsdal,2020-08-01,roomcap,52
+Møre og Romsdal,2020-08-01,bedcap,45
+Møre og Romsdal,2020-08-01,revenue,75891
+Møre og Romsdal,2020-08-01,revperroom,579
+Møre og Romsdal,2020-08-01,revsofar,381621
+Møre og Romsdal,2020-08-01,revroomsofar,453
+Møre og Romsdal,2020-08-01,roompricesofar,1042
+Møre og Romsdal,2020-08-01,roomcapsofar,44
+Møre og Romsdal,2020-08-01,bedcapsofar,34
+Trøndelag,2020-01-01,rentedrooms,102288
+Trøndelag,2020-01-01,roomprice,957
+Trøndelag,2020-01-01,roomcap,51
+Trøndelag,2020-01-01,bedcap,31
+Trøndelag,2020-01-01,revenue,97841
+Trøndelag,2020-01-01,revperroom,487
+Trøndelag,2020-01-01,revsofar,97841
+Trøndelag,2020-01-01,revroomsofar,487
+Trøndelag,2020-01-01,roompricesofar,957
+Trøndelag,2020-01-01,roomcapsofar,51
+Trøndelag,2020-01-01,bedcapsofar,31
+Trøndelag,2020-02-01,rentedrooms,108070
+Trøndelag,2020-02-01,roomprice,959
+Trøndelag,2020-02-01,roomcap,57
+Trøndelag,2020-02-01,bedcap,38
+Trøndelag,2020-02-01,revenue,103681
+Trøndelag,2020-02-01,revperroom,547
+Trøndelag,2020-02-01,revsofar,201522
+Trøndelag,2020-02-01,revroomsofar,516
+Trøndelag,2020-02-01,roompricesofar,958
+Trøndelag,2020-02-01,roomcapsofar,54
+Trøndelag,2020-02-01,bedcapsofar,35
+Trøndelag,2020-03-01,rentedrooms,51517
+Trøndelag,2020-03-01,roomprice,1001
+Trøndelag,2020-03-01,roomcap,29
+Trøndelag,2020-03-01,bedcap,18
+Trøndelag,2020-03-01,revenue,51587
+Trøndelag,2020-03-01,revperroom,288
+Trøndelag,2020-03-01,revsofar,253108
+Trøndelag,2020-03-01,revroomsofar,444
+Trøndelag,2020-03-01,roompricesofar,967
+Trøndelag,2020-03-01,roomcapsofar,46
+Trøndelag,2020-03-01,bedcapsofar,29
+Trøndelag,2020-04-01,rentedrooms,12660
+Trøndelag,2020-04-01,roomprice,913
+Trøndelag,2020-04-01,roomcap,14
+Trøndelag,2020-04-01,bedcap,9
+Trøndelag,2020-04-01,revenue,11557
+Trøndelag,2020-04-01,revperroom,131
+Trøndelag,2020-04-01,revsofar,264665
+Trøndelag,2020-04-01,revroomsofar,402
+Trøndelag,2020-04-01,roompricesofar,964
+Trøndelag,2020-04-01,roomcapsofar,42
+Trøndelag,2020-04-01,bedcapsofar,27
+Trøndelag,2020-05-01,rentedrooms,28270
+Trøndelag,2020-05-01,roomprice,923
+Trøndelag,2020-05-01,roomcap,23
+Trøndelag,2020-05-01,bedcap,15
+Trøndelag,2020-05-01,revenue,26088
+Trøndelag,2020-05-01,revperroom,211
+Trøndelag,2020-05-01,revsofar,290753
+Trøndelag,2020-05-01,revroomsofar,372
+Trøndelag,2020-05-01,roompricesofar,960
+Trøndelag,2020-05-01,roomcapsofar,39
+Trøndelag,2020-05-01,bedcapsofar,25
+Trøndelag,2020-06-01,rentedrooms,76173
+Trøndelag,2020-06-01,roomprice,956
+Trøndelag,2020-06-01,roomcap,41
+Trøndelag,2020-06-01,bedcap,32
+Trøndelag,2020-06-01,revenue,72836
+Trøndelag,2020-06-01,revperroom,392
+Trøndelag,2020-06-01,revsofar,363589
+Trøndelag,2020-06-01,revroomsofar,376
+Trøndelag,2020-06-01,roompricesofar,959
+Trøndelag,2020-06-01,roomcapsofar,39
+Trøndelag,2020-06-01,bedcapsofar,26
+Trøndelag,2020-07-01,rentedrooms,150218
+Trøndelag,2020-07-01,roomprice,1064
+Trøndelag,2020-07-01,roomcap,75
+Trøndelag,2020-07-01,bedcap,67
+Trøndelag,2020-07-01,revenue,159808
+Trøndelag,2020-07-01,revperroom,800
+Trøndelag,2020-07-01,revsofar,523396
+Trøndelag,2020-07-01,revroomsofar,449
+Trøndelag,2020-07-01,roompricesofar,989
+Trøndelag,2020-07-01,roomcapsofar,45
+Trøndelag,2020-07-01,bedcapsofar,33
+Trøndelag,2020-08-01,rentedrooms,106408
+Trøndelag,2020-08-01,roomprice,974
+Trøndelag,2020-08-01,roomcap,49
+Trøndelag,2020-08-01,bedcap,39
+Trøndelag,2020-08-01,revenue,103608
+Trøndelag,2020-08-01,revperroom,476
+Trøndelag,2020-08-01,revsofar,627005
+Trøndelag,2020-08-01,revroomsofar,453
+Trøndelag,2020-08-01,roompricesofar,986
+Trøndelag,2020-08-01,roomcapsofar,46
+Trøndelag,2020-08-01,bedcapsofar,34
+Nordland,2020-01-01,rentedrooms,49322
+Nordland,2020-01-01,roomprice,920
+Nordland,2020-01-01,roomcap,40
+Nordland,2020-01-01,bedcap,24
+Nordland,2020-01-01,revenue,45395
+Nordland,2020-01-01,revperroom,372
+Nordland,2020-01-01,revsofar,45395
+Nordland,2020-01-01,revroomsofar,372
+Nordland,2020-01-01,roompricesofar,920
+Nordland,2020-01-01,roomcapsofar,40
+Nordland,2020-01-01,bedcapsofar,24
+Nordland,2020-02-01,rentedrooms,65073
+Nordland,2020-02-01,roomprice,938
+Nordland,2020-02-01,roomcap,54
+Nordland,2020-02-01,bedcap,35
+Nordland,2020-02-01,revenue,61006
+Nordland,2020-02-01,revperroom,510
+Nordland,2020-02-01,revsofar,106401
+Nordland,2020-02-01,revroomsofar,440
+Nordland,2020-02-01,roompricesofar,930
+Nordland,2020-02-01,roomcapsofar,47
+Nordland,2020-02-01,bedcapsofar,30
+Nordland,2020-03-01,rentedrooms,34807
+Nordland,2020-03-01,roomprice,973
+Nordland,2020-03-01,roomcap,30
+Nordland,2020-03-01,bedcap,19
+Nordland,2020-03-01,revenue,33873
+Nordland,2020-03-01,revperroom,296
+Nordland,2020-03-01,revsofar,140274
+Nordland,2020-03-01,revroomsofar,394
+Nordland,2020-03-01,roompricesofar,940
+Nordland,2020-03-01,roomcapsofar,42
+Nordland,2020-03-01,bedcapsofar,26
+Nordland,2020-04-01,rentedrooms,10330
+Nordland,2020-04-01,roomprice,846
+Nordland,2020-04-01,roomcap,13
+Nordland,2020-04-01,bedcap,7
+Nordland,2020-04-01,revenue,8736
+Nordland,2020-04-01,revperroom,108
+Nordland,2020-04-01,revsofar,149010
+Nordland,2020-04-01,revroomsofar,341
+Nordland,2020-04-01,roompricesofar,934
+Nordland,2020-04-01,roomcapsofar,36
+Nordland,2020-04-01,bedcapsofar,23
+Nordland,2020-05-01,rentedrooms,22384
+Nordland,2020-05-01,roomprice,916
+Nordland,2020-05-01,roomcap,22
+Nordland,2020-05-01,bedcap,13
+Nordland,2020-05-01,revenue,20504
+Nordland,2020-05-01,revperroom,201
+Nordland,2020-05-01,revsofar,169514
+Nordland,2020-05-01,revroomsofar,315
+Nordland,2020-05-01,roompricesofar,932
+Nordland,2020-05-01,roomcapsofar,34
+Nordland,2020-05-01,bedcapsofar,21
+Nordland,2020-06-01,rentedrooms,58275
+Nordland,2020-06-01,roomprice,1020
+Nordland,2020-06-01,roomcap,48
+Nordland,2020-06-01,bedcap,34
+Nordland,2020-06-01,revenue,59460
+Nordland,2020-06-01,revperroom,491
+Nordland,2020-06-01,revsofar,228974
+Nordland,2020-06-01,revroomsofar,347
+Nordland,2020-06-01,roompricesofar,953
+Nordland,2020-06-01,roomcapsofar,36
+Nordland,2020-06-01,bedcapsofar,23
+Nordland,2020-07-01,rentedrooms,110886
+Nordland,2020-07-01,roomprice,1091
+Nordland,2020-07-01,roomcap,79
+Nordland,2020-07-01,bedcap,75
+Nordland,2020-07-01,revenue,120950
+Nordland,2020-07-01,revperroom,863
+Nordland,2020-07-01,revsofar,349925
+Nordland,2020-07-01,revroomsofar,438
+Nordland,2020-07-01,roompricesofar,997
+Nordland,2020-07-01,roomcapsofar,44
+Nordland,2020-07-01,bedcapsofar,32
+Nordland,2020-08-01,rentedrooms,78047
+Nordland,2020-08-01,roomprice,1016
+Nordland,2020-08-01,roomcap,58
+Nordland,2020-08-01,bedcap,44
+Nordland,2020-08-01,revenue,79324
+Nordland,2020-08-01,revperroom,593
+Nordland,2020-08-01,revsofar,429248
+Nordland,2020-08-01,revroomsofar,460
+Nordland,2020-08-01,roompricesofar,1000
+Nordland,2020-08-01,roomcapsofar,46
+Nordland,2020-08-01,bedcapsofar,34
+Troms og Finnmark,2020-01-01,rentedrooms,95415
+Troms og Finnmark,2020-01-01,roomprice,1271
+Troms og Finnmark,2020-01-01,roomcap,62
+Troms og Finnmark,2020-01-01,bedcap,46
+Troms og Finnmark,2020-01-01,revenue,121272
+Troms og Finnmark,2020-01-01,revperroom,785
+Troms og Finnmark,2020-01-01,revsofar,121272
+Troms og Finnmark,2020-01-01,revroomsofar,785
+Troms og Finnmark,2020-01-01,roompricesofar,1271
+Troms og Finnmark,2020-01-01,roomcapsofar,62
+Troms og Finnmark,2020-01-01,bedcapsofar,46
+Troms og Finnmark,2020-02-01,rentedrooms,103717
+Troms og Finnmark,2020-02-01,roomprice,1278
+Troms og Finnmark,2020-02-01,roomcap,69
+Troms og Finnmark,2020-02-01,bedcap,55
+Troms og Finnmark,2020-02-01,revenue,132591
+Troms og Finnmark,2020-02-01,revperroom,882
+Troms og Finnmark,2020-02-01,revsofar,253864
+Troms og Finnmark,2020-02-01,revroomsofar,833
+Troms og Finnmark,2020-02-01,roompricesofar,1275
+Troms og Finnmark,2020-02-01,roomcapsofar,65
+Troms og Finnmark,2020-02-01,bedcapsofar,50
+Troms og Finnmark,2020-03-01,rentedrooms,49655
+Troms og Finnmark,2020-03-01,roomprice,1105
+Troms og Finnmark,2020-03-01,roomcap,33
+Troms og Finnmark,2020-03-01,bedcap,23
+Troms og Finnmark,2020-03-01,revenue,54846
+Troms og Finnmark,2020-03-01,revperroom,366
+Troms og Finnmark,2020-03-01,revsofar,308709
+Troms og Finnmark,2020-03-01,revroomsofar,679
+Troms og Finnmark,2020-03-01,roompricesofar,1241
+Troms og Finnmark,2020-03-01,roomcapsofar,55
+Troms og Finnmark,2020-03-01,bedcapsofar,41
+Troms og Finnmark,2020-04-01,rentedrooms,11059
+Troms og Finnmark,2020-04-01,roomprice,831
+Troms og Finnmark,2020-04-01,roomcap,13
+Troms og Finnmark,2020-04-01,bedcap,7
+Troms og Finnmark,2020-04-01,revenue,9186
+Troms og Finnmark,2020-04-01,revperroom,109
+Troms og Finnmark,2020-04-01,revsofar,317896
+Troms og Finnmark,2020-04-01,revroomsofar,589
+Troms og Finnmark,2020-04-01,roompricesofar,1223
+Troms og Finnmark,2020-04-01,roomcapsofar,48
+Troms og Finnmark,2020-04-01,bedcapsofar,36
+Troms og Finnmark,2020-05-01,rentedrooms,24676
+Troms og Finnmark,2020-05-01,roomprice,870
+Troms og Finnmark,2020-05-01,roomcap,24
+Troms og Finnmark,2020-05-01,bedcap,14
+Troms og Finnmark,2020-05-01,revenue,21457
+Troms og Finnmark,2020-05-01,revperroom,213
+Troms og Finnmark,2020-05-01,revsofar,339353
+Troms og Finnmark,2020-05-01,revroomsofar,530
+Troms og Finnmark,2020-05-01,roompricesofar,1193
+Troms og Finnmark,2020-05-01,roomcapsofar,44
+Troms og Finnmark,2020-05-01,bedcapsofar,32
+Troms og Finnmark,2020-06-01,rentedrooms,56559
+Troms og Finnmark,2020-06-01,roomprice,920
+Troms og Finnmark,2020-06-01,roomcap,38
+Troms og Finnmark,2020-06-01,bedcap,24
+Troms og Finnmark,2020-06-01,revenue,52022
+Troms og Finnmark,2020-06-01,revperroom,346
+Troms og Finnmark,2020-06-01,revsofar,391374
+Troms og Finnmark,2020-06-01,revroomsofar,495
+Troms og Finnmark,2020-06-01,roompricesofar,1147
+Troms og Finnmark,2020-06-01,roomcapsofar,43
+Troms og Finnmark,2020-06-01,bedcapsofar,31
+Troms og Finnmark,2020-07-01,rentedrooms,81778
+Troms og Finnmark,2020-07-01,roomprice,901
+Troms og Finnmark,2020-07-01,roomcap,55
+Troms og Finnmark,2020-07-01,bedcap,48
+Troms og Finnmark,2020-07-01,revenue,73643
+Troms og Finnmark,2020-07-01,revperroom,494
+Troms og Finnmark,2020-07-01,revsofar,465017
+Troms og Finnmark,2020-07-01,revroomsofar,495
+Troms og Finnmark,2020-07-01,roompricesofar,1100
+Troms og Finnmark,2020-07-01,roomcapsofar,45
+Troms og Finnmark,2020-07-01,bedcapsofar,34
+Troms og Finnmark,2020-08-01,rentedrooms,67730
+Troms og Finnmark,2020-08-01,roomprice,900
+Troms og Finnmark,2020-08-01,roomcap,44
+Troms og Finnmark,2020-08-01,bedcap,33
+Troms og Finnmark,2020-08-01,revenue,60985
+Troms og Finnmark,2020-08-01,revperroom,399
+Troms og Finnmark,2020-08-01,revsofar,526002
+Troms og Finnmark,2020-08-01,revroomsofar,482
+Troms og Finnmark,2020-08-01,roompricesofar,1072
+Troms og Finnmark,2020-08-01,roomcapsofar,45
+Troms og Finnmark,2020-08-01,bedcapsofar,34
+Svalbard,2020-01-01,rentedrooms,5408
+Svalbard,2020-01-01,roomprice,1027
+Svalbard,2020-01-01,roomcap,49
+Svalbard,2020-01-01,bedcap,37
+Svalbard,2020-01-01,revenue,5552
+Svalbard,2020-01-01,revperroom,504
+Svalbard,2020-01-01,revsofar,5552
+Svalbard,2020-01-01,revroomsofar,504
+Svalbard,2020-01-01,roompricesofar,1027
+Svalbard,2020-01-01,roomcapsofar,49
+Svalbard,2020-01-01,bedcapsofar,37
+Svalbard,2020-02-01,rentedrooms,8957
+Svalbard,2020-02-01,roomprice,1311
+Svalbard,2020-02-01,roomcap,65
+Svalbard,2020-02-01,bedcap,50
+Svalbard,2020-02-01,revenue,11738
+Svalbard,2020-02-01,revperroom,847
+Svalbard,2020-02-01,revsofar,17290
+Svalbard,2020-02-01,revroomsofar,695
+Svalbard,2020-02-01,roompricesofar,1204
+Svalbard,2020-02-01,roomcapsofar,58
+Svalbard,2020-02-01,bedcapsofar,44
+Svalbard,2020-03-01,rentedrooms,4217
+Svalbard,2020-03-01,roomprice,1836
+Svalbard,2020-03-01,roomcap,40
+Svalbard,2020-03-01,bedcap,31
+Svalbard,2020-03-01,revenue,7741
+Svalbard,2020-03-01,revperroom,727
+Svalbard,2020-03-01,revsofar,25031
+Svalbard,2020-03-01,revroomsofar,705
+Svalbard,2020-03-01,roompricesofar,1347
+Svalbard,2020-03-01,roomcapsofar,52
+Svalbard,2020-03-01,bedcapsofar,40
+Svalbard,2020-04-01,rentedrooms,222
+Svalbard,2020-04-01,roomprice,1471
+Svalbard,2020-04-01,roomcap,4
+Svalbard,2020-04-01,bedcap,4
+Svalbard,2020-04-01,revenue,327
+Svalbard,2020-04-01,revperroom,66
+Svalbard,2020-04-01,revsofar,25357
+Svalbard,2020-04-01,revroomsofar,627
+Svalbard,2020-04-01,roompricesofar,1349
+Svalbard,2020-04-01,roomcapsofar,46
+Svalbard,2020-04-01,bedcapsofar,36
+Svalbard,2020-05-01,rentedrooms,147
+Svalbard,2020-05-01,roomprice,1508
+Svalbard,2020-05-01,roomcap,2
+Svalbard,2020-05-01,bedcap,1
+Svalbard,2020-05-01,revenue,222
+Svalbard,2020-05-01,revperroom,32
+Svalbard,2020-05-01,revsofar,25579
+Svalbard,2020-05-01,revroomsofar,540
+Svalbard,2020-05-01,roompricesofar,1350
+Svalbard,2020-05-01,roomcapsofar,40
+Svalbard,2020-05-01,bedcapsofar,31
+Svalbard,2020-06-01,rentedrooms,1699
+Svalbard,2020-06-01,roomprice,1590
+Svalbard,2020-06-01,roomcap,24
+Svalbard,2020-06-01,bedcap,17
+Svalbard,2020-06-01,revenue,2702
+Svalbard,2020-06-01,revperroom,383
+Svalbard,2020-06-01,revsofar,28281
+Svalbard,2020-06-01,revroomsofar,520
+Svalbard,2020-06-01,roompricesofar,1370
+Svalbard,2020-06-01,roomcapsofar,38
+Svalbard,2020-06-01,bedcapsofar,29
+Svalbard,2020-07-01,rentedrooms,4723
+Svalbard,2020-07-01,roomprice,1569
+Svalbard,2020-07-01,roomcap,40
+Svalbard,2020-07-01,bedcap,37
+Svalbard,2020-07-01,revenue,7409
+Svalbard,2020-07-01,revperroom,632
+Svalbard,2020-07-01,revsofar,35690
+Svalbard,2020-07-01,revroomsofar,540
+Svalbard,2020-07-01,roompricesofar,1407
+Svalbard,2020-07-01,roomcapsofar,38
+Svalbard,2020-07-01,bedcapsofar,30
+Svalbard,2020-08-01,rentedrooms,4603
+Svalbard,2020-08-01,roomprice,1389
+Svalbard,2020-08-01,roomcap,46
+Svalbard,2020-08-01,bedcap,35
+Svalbard,2020-08-01,revenue,6393
+Svalbard,2020-08-01,revperroom,634
+Svalbard,2020-08-01,revsofar,42083
+Svalbard,2020-08-01,revroomsofar,552
+Svalbard,2020-08-01,roompricesofar,1404
+Svalbard,2020-08-01,roomcapsofar,39
+Svalbard,2020-08-01,bedcapsofar,31
+Whole country,2020-01-01,rentedrooms,1158050
+Whole country,2020-01-01,roomprice,960
+Whole country,2020-01-01,roomcap,47
+Whole country,2020-01-01,bedcap,30
+Whole country,2020-01-01,revenue,1111532
+Whole country,2020-01-01,revperroom,451
+Whole country,2020-01-01,revsofar,1111532
+Whole country,2020-01-01,revroomsofar,451
+Whole country,2020-01-01,roompricesofar,960
+Whole country,2020-01-01,roomcapsofar,47
+Whole country,2020-01-01,bedcapsofar,30
+Whole country,2020-02-01,rentedrooms,1218795
+Whole country,2020-02-01,roomprice,989
+Whole country,2020-02-01,roomcap,52
+Whole country,2020-02-01,bedcap,37
+Whole country,2020-02-01,revenue,1205499
+Whole country,2020-02-01,revperroom,515
+Whole country,2020-02-01,revsofar,2317031
+Whole country,2020-02-01,revroomsofar,482
+Whole country,2020-02-01,roompricesofar,975
+Whole country,2020-02-01,roomcapsofar,49
+Whole country,2020-02-01,bedcapsofar,33
+Whole country,2020-03-01,rentedrooms,605679
+Whole country,2020-03-01,roomprice,997
+Whole country,2020-03-01,roomcap,28
+Whole country,2020-03-01,bedcap,17
+Whole country,2020-03-01,revenue,604046
+Whole country,2020-03-01,revperroom,275
+Whole country,2020-03-01,revsofar,2921077
+Whole country,2020-03-01,revroomsofar,417
+Whole country,2020-03-01,roompricesofar,979
+Whole country,2020-03-01,roomcapsofar,43
+Whole country,2020-03-01,bedcapsofar,28
+Whole country,2020-04-01,rentedrooms,189510
+Whole country,2020-04-01,roomprice,852
+Whole country,2020-04-01,roomcap,16
+Whole country,2020-04-01,bedcap,9
+Whole country,2020-04-01,revenue,161406
+Whole country,2020-04-01,revperroom,138
+Whole country,2020-04-01,revsofar,3082484
+Whole country,2020-04-01,revroomsofar,377
+Whole country,2020-04-01,roompricesofar,972
+Whole country,2020-04-01,roomcapsofar,39
+Whole country,2020-04-01,bedcapsofar,26
+Whole country,2020-05-01,rentedrooms,344010
+Whole country,2020-05-01,roomprice,911
+Whole country,2020-05-01,roomcap,24
+Whole country,2020-05-01,bedcap,15
+Whole country,2020-05-01,revenue,313499
+Whole country,2020-05-01,revperroom,218
+Whole country,2020-05-01,revsofar,3395982
+Whole country,2020-05-01,revroomsofar,353
+Whole country,2020-05-01,roompricesofar,966
+Whole country,2020-05-01,roomcapsofar,37
+Whole country,2020-05-01,bedcapsofar,24
+Whole country,2020-06-01,rentedrooms,779081
+Whole country,2020-06-01,roomprice,994
+Whole country,2020-06-01,roomcap,36
+Whole country,2020-06-01,bedcap,26
+Whole country,2020-06-01,revenue,774423
+Whole country,2020-06-01,revperroom,363
+Whole country,2020-06-01,revsofar,4170405
+Whole country,2020-06-01,revroomsofar,355
+Whole country,2020-06-01,roompricesofar,971
+Whole country,2020-06-01,roomcapsofar,37
+Whole country,2020-06-01,bedcapsofar,24
+Whole country,2020-07-01,rentedrooms,1490879
+Whole country,2020-07-01,roomprice,1102
+Whole country,2020-07-01,roomcap,63
+Whole country,2020-07-01,bedcap,59
+Whole country,2020-07-01,revenue,1643036
+Whole country,2020-07-01,revperroom,693
+Whole country,2020-07-01,revsofar,5813441
+Whole country,2020-07-01,revroomsofar,412
+Whole country,2020-07-01,roompricesofar,1005
+Whole country,2020-07-01,roomcapsofar,41
+Whole country,2020-07-01,bedcapsofar,30
+Whole country,2020-08-01,rentedrooms,1098409
+Whole country,2020-08-01,roomprice,997
+Whole country,2020-08-01,roomcap,44
+Whole country,2020-08-01,bedcap,33
+Whole country,2020-08-01,revenue,1095267
+Whole country,2020-08-01,revperroom,436
+Whole country,2020-08-01,revsofar,6908709
+Whole country,2020-08-01,revroomsofar,415
+Whole country,2020-08-01,roompricesofar,1004
+Whole country,2020-08-01,roomcapsofar,41
+Whole country,2020-08-01,bedcapsofar,31
